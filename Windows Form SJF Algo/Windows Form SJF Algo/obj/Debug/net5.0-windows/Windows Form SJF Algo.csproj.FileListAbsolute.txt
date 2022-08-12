@@ -1,0 +1,38 @@
+C:\Users\DEll\source\repos\Windows Form SJF Algo\Windows Form SJF Algo\bin\Debug\net5.0-windows\Windows Form SJF Algo.exe
+C:\Users\DEll\source\repos\Windows Form SJF Algo\Windows Form SJF Algo\bin\Debug\net5.0-windows\Windows Form SJF Algo.deps.json
+C:\Users\DEll\source\repos\Windows Form SJF Algo\Windows Form SJF Algo\bin\Debug\net5.0-windows\Windows Form SJF Algo.runtimeconfig.json
+C:\Users\DEll\source\repos\Windows Form SJF Algo\Windows Form SJF Algo\bin\Debug\net5.0-windows\Windows Form SJF Algo.runtimeconfig.dev.json
+C:\Users\DEll\source\repos\Windows Form SJF Algo\Windows Form SJF Algo\bin\Debug\net5.0-windows\Windows Form SJF Algo.dll
+C:\Users\DEll\source\repos\Windows Form SJF Algo\Windows Form SJF Algo\bin\Debug\net5.0-windows\ref\Windows Form SJF Algo.dll
+C:\Users\DEll\source\repos\Windows Form SJF Algo\Windows Form SJF Algo\bin\Debug\net5.0-windows\Windows Form SJF Algo.pdb
+C:\Users\DEll\source\repos\Windows Form SJF Algo\Windows Form SJF Algo\obj\Debug\net5.0-windows\Windows Form SJF Algo.csproj.AssemblyReference.cache
+C:\Users\DEll\source\repos\Windows Form SJF Algo\Windows Form SJF Algo\obj\Debug\net5.0-windows\Windows_Form_SJF_Algo.Form1.resources
+C:\Users\DEll\source\repos\Windows Form SJF Algo\Windows Form SJF Algo\obj\Debug\net5.0-windows\Windows_Form_SJF_Algo.Properties.Resources.resources
+C:\Users\DEll\source\repos\Windows Form SJF Algo\Windows Form SJF Algo\obj\Debug\net5.0-windows\Windows Form SJF Algo.csproj.GenerateResource.cache
+C:\Users\DEll\source\repos\Windows Form SJF Algo\Windows Form SJF Algo\obj\Debug\net5.0-windows\Windows Form SJF Algo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEll\source\repos\Windows Form SJF Algo\Windows Form SJF Algo\obj\Debug\net5.0-windows\Windows Form SJF Algo.AssemblyInfoInputs.cache
+C:\Users\DEll\source\repos\Windows Form SJF Algo\Windows Form SJF Algo\obj\Debug\net5.0-windows\Windows Form SJF Algo.AssemblyInfo.cs
+C:\Users\DEll\source\repos\Windows Form SJF Algo\Windows Form SJF Algo\obj\Debug\net5.0-windows\Windows Form SJF Algo.csproj.CoreCompileInputs.cache
+C:\Users\DEll\source\repos\Windows Form SJF Algo\Windows Form SJF Algo\obj\Debug\net5.0-windows\Windows Form SJF Algo.dll
+C:\Users\DEll\source\repos\Windows Form SJF Algo\Windows Form SJF Algo\obj\Debug\net5.0-windows\ref\Windows Form SJF Algo.dll
+C:\Users\DEll\source\repos\Windows Form SJF Algo\Windows Form SJF Algo\obj\Debug\net5.0-windows\Windows Form SJF Algo.pdb
+C:\Users\DEll\source\repos\Windows Form SJF Algo\Windows Form SJF Algo\obj\Debug\net5.0-windows\Windows Form SJF Algo.genruntimeconfig.cache
+C:\Users\DEll\OneDrive\Desktop\Windows Form SJF Algo\Windows Form SJF Algo\bin\Debug\net5.0-windows\Windows Form SJF Algo.exe
+C:\Users\DEll\OneDrive\Desktop\Windows Form SJF Algo\Windows Form SJF Algo\bin\Debug\net5.0-windows\Windows Form SJF Algo.deps.json
+C:\Users\DEll\OneDrive\Desktop\Windows Form SJF Algo\Windows Form SJF Algo\bin\Debug\net5.0-windows\Windows Form SJF Algo.runtimeconfig.json
+C:\Users\DEll\OneDrive\Desktop\Windows Form SJF Algo\Windows Form SJF Algo\bin\Debug\net5.0-windows\Windows Form SJF Algo.runtimeconfig.dev.json
+C:\Users\DEll\OneDrive\Desktop\Windows Form SJF Algo\Windows Form SJF Algo\bin\Debug\net5.0-windows\Windows Form SJF Algo.dll
+C:\Users\DEll\OneDrive\Desktop\Windows Form SJF Algo\Windows Form SJF Algo\bin\Debug\net5.0-windows\ref\Windows Form SJF Algo.dll
+C:\Users\DEll\OneDrive\Desktop\Windows Form SJF Algo\Windows Form SJF Algo\bin\Debug\net5.0-windows\Windows Form SJF Algo.pdb
+C:\Users\DEll\OneDrive\Desktop\Windows Form SJF Algo\Windows Form SJF Algo\obj\Debug\net5.0-windows\Windows Form SJF Algo.csproj.AssemblyReference.cache
+C:\Users\DEll\OneDrive\Desktop\Windows Form SJF Algo\Windows Form SJF Algo\obj\Debug\net5.0-windows\Windows_Form_SJF_Algo.Form1.resources
+C:\Users\DEll\OneDrive\Desktop\Windows Form SJF Algo\Windows Form SJF Algo\obj\Debug\net5.0-windows\Windows_Form_SJF_Algo.Properties.Resources.resources
+C:\Users\DEll\OneDrive\Desktop\Windows Form SJF Algo\Windows Form SJF Algo\obj\Debug\net5.0-windows\Windows Form SJF Algo.csproj.GenerateResource.cache
+C:\Users\DEll\OneDrive\Desktop\Windows Form SJF Algo\Windows Form SJF Algo\obj\Debug\net5.0-windows\Windows Form SJF Algo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEll\OneDrive\Desktop\Windows Form SJF Algo\Windows Form SJF Algo\obj\Debug\net5.0-windows\Windows Form SJF Algo.AssemblyInfoInputs.cache
+C:\Users\DEll\OneDrive\Desktop\Windows Form SJF Algo\Windows Form SJF Algo\obj\Debug\net5.0-windows\Windows Form SJF Algo.AssemblyInfo.cs
+C:\Users\DEll\OneDrive\Desktop\Windows Form SJF Algo\Windows Form SJF Algo\obj\Debug\net5.0-windows\Windows Form SJF Algo.csproj.CoreCompileInputs.cache
+C:\Users\DEll\OneDrive\Desktop\Windows Form SJF Algo\Windows Form SJF Algo\obj\Debug\net5.0-windows\Windows Form SJF Algo.dll
+C:\Users\DEll\OneDrive\Desktop\Windows Form SJF Algo\Windows Form SJF Algo\obj\Debug\net5.0-windows\ref\Windows Form SJF Algo.dll
+C:\Users\DEll\OneDrive\Desktop\Windows Form SJF Algo\Windows Form SJF Algo\obj\Debug\net5.0-windows\Windows Form SJF Algo.pdb
+C:\Users\DEll\OneDrive\Desktop\Windows Form SJF Algo\Windows Form SJF Algo\obj\Debug\net5.0-windows\Windows Form SJF Algo.genruntimeconfig.cache
